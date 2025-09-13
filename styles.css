@@ -33,7 +33,7 @@ main {
 
 footer {
     text-align: center;
-    padding: 20px;
+    padding: 30px; /* Increased padding for better spacing consistency */
     background: #2c3e50; /* Updated to match header for consistency */
     color: #ffffff;
     position: relative;
