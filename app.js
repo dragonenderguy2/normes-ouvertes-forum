@@ -1,12 +1,12 @@
 // Fichier principal JavaScript pour le Forum sur les Normes Ouvertes
 
-console.log('Bienvenue à tous les utilisateurs sur le Forum des Normes Ouvertes');
+console.log('Bienvenue à tous les utilisateurs sur le Forum des Normes Ouvertes.');
 
 // Code pour initialiser les fonctionnalités du forum ici
 
 function initForum() {
     // Initialisation des forums et des discussions
-    console.log('Forum initialisé');
+    console.log('Le forum a été initialisé avec succès.');
 }
 
 initForum();
